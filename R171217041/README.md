@@ -4,7 +4,7 @@
 
 [1. Web Development](checklist-app/) : MERN Stack
 
-[2. VCS x SCM](https://www.github.com/hkshitesh/SPCM-2020/R171217041) : Git using GitHub
+[2. VCS x SCM](https://www.github.com/hkshitesh/SPCM-2020) : Git using GitHub
 
 [3. Container Engine](https://hub.docker.com/repository/docker/nishkarshraj/mern-stack) : Docker
 
