@@ -1,11 +1,11 @@
-## TO Execute the Web Application:  
+## To Execute the Web Application:  
   `npm install`  
   `node app.js`  
   
   Project webpage available on   
   > http://localhost:3000
 
-## To Execute the Project Using Image:  
+## To Execute the Project Using Docker Image:  
   `docker pull always2kspiner/webproject:latest`  
   `docker run -itd always2kspiner/webproject:latest`  
   
