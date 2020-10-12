@@ -4,8 +4,11 @@ In this project, I have desinged a web application. All the phases like build, i
 
 ### Technologies Used: 
 Node Js
+
 Jenkins
+
 Docker 
+
 Terraform
 
 ## Running of the application
