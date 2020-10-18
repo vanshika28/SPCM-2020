@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-MAINTAINER Prashant Shahi "coolboi567@gmail.com"
+MAINTAINER Lakshika Parihar "pariharlakshika@gmail.com"
 
 COPY . /app
 
