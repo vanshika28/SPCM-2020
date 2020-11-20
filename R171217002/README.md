@@ -1,4 +1,5 @@
 # CI / CD Pipeline using Github, Docker, Jenkins and Terraform
+
 Blog available: [Medium](https://medium.com/@500061181/ci-cd-pipeline-using-github-docker-jenkins-and-terraform-40f881d8b620)
 # Technologies Used
 * [Python](https://www.python.org/doc/) - Programming language used
